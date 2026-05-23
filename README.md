@@ -25,6 +25,9 @@
 # ✅ Completed Projects
 - NerdMarket 
   - Gradle/Maven/Springboot Android App to allow users to store and track their trading card portfolio over Pokemon, Magic The Gathering, and Yu-Ghi-Oh
+- Chargeboard (P15 Eliana)
+  - C++ Embedded Software to Enable PRISUM's P15 Eliana to utilize SAE J1772 EVSE systems to charge the onboard battery for the 2024 American Solar Challenge and Formula Sun Grand Prix. 
+  -  Placed 3rd in MOV class
 # Current Relevant Coursework
 Currently Learning:
 - Summer :)
