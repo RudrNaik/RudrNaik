@@ -5,7 +5,7 @@
 - Artist on the side.
 # Connect with me!
 - 📧 rudramnaik@gmail.com
-- https://x.com/Spinypine2
+- 🐦 https://x.com/Spinypine2
 - 💼 https://www.linkedin.com/in/rudra-naik-8b1878279/
 # Current Relevant Coursework
 Currently Learning:
