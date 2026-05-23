@@ -2,7 +2,7 @@
 - BS in Computer Science @ Iowa State
 - Nuclear Option Modder
 - Tabletop/Unity Game Developer
-- Concepot/Character artist
+- Concept/Character artist
 # Connect with me!
 - 📧 rudramnaik@gmail.com
 - 🐦 https://x.com/Spinypine2
