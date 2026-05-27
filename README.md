@@ -16,6 +16,7 @@
   - C/C++/Python
 - ACES HIGH
   - Website developed for the Aces High Team and their TTRPG under the same name. Developed as a player compendium and character manager. 
+  - Typescript/React
 - SEAD 
   - Unity based, side scrolling, 2d flight action game. In development.
   - C#/Unity Engine
