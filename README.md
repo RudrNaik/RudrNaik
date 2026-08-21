@@ -1,4 +1,4 @@
-# 👋 Heyo! I'm Rudra Naik
+# 👋 Hello! I'm Rudra Naik
 - BS in Computer Science @ Iowa State
 - Nuclear Option Modder
 - Tabletop/Unity Game Developer
@@ -7,6 +7,7 @@
 - 📧 rudramnaik@gmail.com
 - 🐦 https://x.com/Spinypine2
 - 💼 https://www.linkedin.com/in/rudra-naik-8b1878279/
+- 🎨 https://cara.app/spinypine
 # Current Projects
 - CALLICOM
   - Website developed as a GM and Player tool for CALAMARI, my tactical (digital) tabletop roleplaying game, built for discord and other online platforms.
