@@ -2,6 +2,7 @@
 - BS in Computer Science @ Iowa State
 - Nuclear Option Modder
 - Tabletop/Unity Game Developer
+- Web Developer
 - Concept/Character artist
 # Connect with me!
 - 📧 rudramnaik@gmail.com
@@ -32,7 +33,8 @@
   -  Placed 3rd in MOV class
 # Current Relevant Coursework
 Currently Learning:
-- Summer :)
+- COMS 336 | Intro to Computer Graphics
+- COMS 342 | Principles of Programming Languages
 # ✅ Completed Coursework
 @ Iowa State University:
 - COMS 363 | Introduction to Database Management Systems
